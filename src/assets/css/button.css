@@ -1,0 +1,27 @@
+.btn {
+    @apply inline-flex px-[20px] items-center justify-center
+}
+
+.btn-md {
+    @apply h-[32px]
+}
+
+.btn-lg {
+    @apply h-[38px]
+}
+
+.btn-rounded {
+    @apply rounded-[4px]
+}
+
+.btn-rounded-full {
+    @apply rounded-full
+}
+
+.btn-primary {
+    @apply bg-[#2F9FF8] text-white
+}
+
+.btn-primaryDark {
+    @apply bg-[#0768B5] text-white
+}
